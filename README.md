@@ -1,0 +1,2 @@
+# Modelling-of-Badminton-Shuttlecock-Impact-on-Ground-using-FEM-and-Tensor-Field-Visualization
+High-fidelity FEM-based impact simulation of feather and nylon shuttlecocks using Abaqus and Siemens NX. Includes validated transient contact modeling, Python-based post-processing for stress/tensor-field analysis, and a Unity VR pipeline for immersive visualization of deformation, energy transfer, and rebound dynamics.
